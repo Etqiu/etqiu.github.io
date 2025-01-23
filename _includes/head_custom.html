@@ -1,27 +1,25 @@
 <script>
- document.addEventListener('DOMContentLoaded', function() {
-    const darkmodeLink = document.querySelector('.aux-nav-list-item a');
+    document.addEventListener('DOMContentLoaded', function() {
+        const darkModeLink = document.querySelector('a[href="#*"]');
+        if (darkModeLink == null) return;  
+        darkmodeLink.addEventListener('click', function(e) {
+            e.preventDefault();
+            if (localStorage.getItem('theme') === 'light') {
+                jtd.setTheme('dark');
+                localStorage.setItem('theme', 'dark');
+                this.textContent = '☀️';
+            } else {
+                jtd.setTheme('light');
+                localStorage.setItem('theme', 'light');
+                this.textContent = '🌙';
+            }
+        });
     
-    darkmodeLink.addEventListener('click', function(e) {
-        e.preventDefault();
+        // Check for saved theme preference
         if (localStorage.getItem('theme') === 'dark') {
-            jtd.setTheme('light');
-            localStorage.setItem('theme', 'light');
-            this.textContent = '🌙';
-        } else {
             jtd.setTheme('dark');
-            localStorage.setItem('theme', 'dark');
-            this.textContent = '☀️';
+            darkmodeLink.textContent = '🌙';
         }
-    });
-
-    // Check for saved theme preference
-    if (localStorage.getItem('theme') === 'dark') {
-        jtd.setTheme('dark');
-        darkmodeLink.textContent = '☀️';
-    }
-});
-
-
- </script>
+    }); 
+    </script>
     
