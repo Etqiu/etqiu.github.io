@@ -9,10 +9,11 @@ nav_order: 3
 - CS61B - Data Structures and Algorithms <br>
 - DATA100 - Principles and Techniques of Data Science 
 - MATH53 - Multivariable Calculus
-- DATAC104 - Ethics of Data
+- ITALIAN30 - Dante (In English)
 
 # Past coursework:
 ## Fall 2024 
 - CS61A - Structure and Interpretation of Programs<br>
 - DATA8 - Introduction to Data Science<br>
 - MATH54 - Linear Algebra
+- ANTHROR5B - Introduction to Anthropology

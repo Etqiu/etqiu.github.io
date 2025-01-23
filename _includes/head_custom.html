@@ -1,0 +1,27 @@
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+    const darkmodeLink = document.querySelector('.aux-nav-list-item a');
+    
+    darkmodeLink.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (localStorage.getItem('theme') === 'dark') {
+            jtd.setTheme('light');
+            localStorage.setItem('theme', 'light');
+            this.textContent = '🌙';
+        } else {
+            jtd.setTheme('dark');
+            localStorage.setItem('theme', 'dark');
+            this.textContent = '☀️';
+        }
+    });
+
+    // Check for saved theme preference
+    if (localStorage.getItem('theme') === 'dark') {
+        jtd.setTheme('dark');
+        darkmodeLink.textContent = '☀️';
+    }
+});
+
+
+ </script>
+    

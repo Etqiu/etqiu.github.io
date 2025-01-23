@@ -1,4 +1,7 @@
 theme: just-the-docs
 title: etqiu.github.io
 search_enabled: false
-color: .text-blue-000	
+color_scheme: light
+aux_links:
+    "🌙": "#"
+aux_links_new_tab: false
