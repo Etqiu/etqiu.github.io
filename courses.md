@@ -18,7 +18,7 @@ nav_order: 3
 - MATH54 - Linear Algebra
 - ANTHROR5B - Introduction to Anthropology
 
-## Fall 2024 - Spring 2025 (Highschool):
+## Fall 2023 - Spring 2024 (Highschool):
 - AP Economics (Macro/Micro)
 - AP English Literature and Composition 
 - AP Physics C (Mech/E&M) 
@@ -26,7 +26,7 @@ nav_order: 3
 - AP Art History 
 - American Democracy
 
-## Fall 2023 - Spring 2024: 
+## Fall 2022 - Spring 2023: 
 - AP Chemistry 
 - AP English Languague and Composition 
 - AP Statistics 
@@ -34,6 +34,6 @@ nav_order: 3
 - Pre-Calculus H 
 - US History
 
-## Fall 2022 - Spring 2023:
+## Fall 2021 - Spring 2022:
 - AP CSA 
 - AP Music Theory
