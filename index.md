@@ -3,6 +3,7 @@ title: About
 layout: home
 nav_order: 1
 ---
+<script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script>
 
 # Ethan Qiu
 

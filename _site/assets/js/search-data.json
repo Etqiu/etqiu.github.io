@@ -1,2 +1,58 @@
-{
+{"0": {
+    "doc": "Courses",
+    "title": "Current coursework (Spring 2025):",
+    "content": ". | CS61B - Data Structures and Algorithms | DATA100 - Principles and Techniques of Data Science | MATH53 - Multivariable Calculus | ITALIAN30 - Dante (In English) | . ",
+    "url": "/courses.html#current-coursework-spring-2025",
+    
+    "relUrl": "/courses.html#current-coursework-spring-2025"
+  },"1": {
+    "doc": "Courses",
+    "title": "Past coursework:",
+    "content": " ",
+    "url": "/courses.html#past-coursework",
+    
+    "relUrl": "/courses.html#past-coursework"
+  },"2": {
+    "doc": "Courses",
+    "title": "Fall 2024",
+    "content": ". | CS61A - Structure and Interpretation of Programs | DATA8 - Introduction to Data Science | MATH54 - Linear Algebra | ANTHROR5B - Introduction to Anthropology | . ",
+    "url": "/courses.html#fall-2024",
+    
+    "relUrl": "/courses.html#fall-2024"
+  },"3": {
+    "doc": "Courses",
+    "title": "Courses",
+    "content": " ",
+    "url": "/courses.html",
+    
+    "relUrl": "/courses.html"
+  },"4": {
+    "doc": "About",
+    "title": "Ethan Qiu",
+    "content": ". I’m currently a freshman studying data science at UC Berkeley. I’m also interested in studying Natural Language Processing and neural networks, especially learning more about using sci-kit learn and tensorflow. Email: ethanq@berkeley.edu . ",
+    "url": "/#ethan-qiu",
+    
+    "relUrl": "/#ethan-qiu"
+  },"5": {
+    "doc": "About",
+    "title": "Current Activity:",
+    "content": ". ",
+    "url": "/#current-activity",
+    
+    "relUrl": "/#current-activity"
+  },"6": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"7": {
+    "doc": "Resume",
+    "title": "Resume",
+    "content": " ",
+    "url": "/resume.html",
+    
+    "relUrl": "/resume.html"
+  }
 }
