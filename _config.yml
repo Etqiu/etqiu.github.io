@@ -2,7 +2,3 @@ theme: just-the-docs
 title: etqiu.github.io
 search_enabled: false
 color_scheme: light
-enable_darkmode: true
-aux_links:
-  "Dark Mode":
-    - "#"

@@ -21,33 +21,54 @@
     "relUrl": "/courses.html#fall-2024"
   },"3": {
     "doc": "Courses",
+    "title": "Fall 2024 - Spring 2025 (Highschool):",
+    "content": ". | AP Economics (Macro/Micro) | AP English Literature and Composition | AP Physics C (Mech/E&amp;M) | AP Calculus BC | AP Art History | American Democracy | . ",
+    "url": "/courses.html#fall-2024---spring-2025-highschool",
+    
+    "relUrl": "/courses.html#fall-2024---spring-2025-highschool"
+  },"4": {
+    "doc": "Courses",
+    "title": "Fall 2023 - Spring 2024:",
+    "content": ". | AP Chemistry | AP English Languague and Composition | AP Statistics | AP Psychology | Pre-Calculus H | US History | . ",
+    "url": "/courses.html#fall-2023---spring-2024",
+    
+    "relUrl": "/courses.html#fall-2023---spring-2024"
+  },"5": {
+    "doc": "Courses",
+    "title": "Fall 2022 - Spring 2023:",
+    "content": ". | AP CSA | AP Music Theory | . ",
+    "url": "/courses.html#fall-2022---spring-2023",
+    
+    "relUrl": "/courses.html#fall-2022---spring-2023"
+  },"6": {
+    "doc": "Courses",
     "title": "Courses",
     "content": " ",
     "url": "/courses.html",
     
     "relUrl": "/courses.html"
-  },"4": {
+  },"7": {
     "doc": "About",
     "title": "Ethan Qiu",
     "content": ". I’m currently a freshman studying data science at UC Berkeley. I’m also interested in studying Natural Language Processing and neural networks, especially learning more about using sci-kit learn and tensorflow. Email: ethanq@berkeley.edu . ",
     "url": "/#ethan-qiu",
     
     "relUrl": "/#ethan-qiu"
-  },"5": {
+  },"8": {
     "doc": "About",
     "title": "Current Activity:",
     "content": ". ",
     "url": "/#current-activity",
     
     "relUrl": "/#current-activity"
-  },"6": {
+  },"9": {
     "doc": "About",
     "title": "About",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"7": {
+  },"10": {
     "doc": "Resume",
     "title": "Resume",
     "content": " ",

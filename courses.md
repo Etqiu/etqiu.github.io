@@ -17,3 +17,23 @@ nav_order: 3
 - DATA8 - Introduction to Data Science<br>
 - MATH54 - Linear Algebra
 - ANTHROR5B - Introduction to Anthropology
+
+## Fall 2024 - Spring 2025 (Highschool):
+- AP Economics (Macro/Micro)
+- AP English Literature and Composition 
+- AP Physics C (Mech/E&M) 
+- AP Calculus BC 
+- AP Art History 
+- American Democracy
+
+## Fall 2023 - Spring 2024: 
+- AP Chemistry 
+- AP English Languague and Composition 
+- AP Statistics 
+- AP Psychology 
+- Pre-Calculus H 
+- US History
+
+## Fall 2022 - Spring 2023:
+- AP CSA 
+- AP Music Theory
