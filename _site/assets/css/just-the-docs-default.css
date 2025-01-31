@@ -7348,4 +7348,21 @@ div.opaque {
   background-color: #fff;
 }
 
+.dark-mode {
+  background-color: #1c1c1c;
+  color: #ffffff;
+}
+
+.dark-mode .site-header {
+  background-color: #2c2c2c;
+}
+
+.dark-mode .site-nav {
+  background-color: #2c2c2c;
+}
+
+.dark-mode a {
+  color: #75b5ff;
+}
+
 /*# sourceMappingURL=just-the-docs-default.css.map */
