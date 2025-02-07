@@ -13,4 +13,17 @@
 
 .dark-mode a {
     color: #75b5ff;
-} 
+}
+
+/* Set a uniform text color */
+body {
+    color: #000000; 
+}
+
+a {
+    color: #007bff; // link color 
+}
+
+.site-header, .site-footer, .site-nav {
+    color: #007bff; /* Ensure header, footer, and nav text are uniform */
+}

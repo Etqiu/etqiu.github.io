@@ -1,8 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Update selector to target the aux link specifically
     const darkModeToggle = document.querySelector('a[href="#"][aria-label="Dark Mode"]');
     
-    if (darkModeToggle) {  // Add check to ensure element exists
+    if (darkModeToggle) {
         darkModeToggle.addEventListener('click', function(e) {
             e.preventDefault();
             document.body.classList.toggle('dark-mode');
@@ -22,10 +21,3 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 });
-
-// Add a menu at the top for dark mode toggle
-const menu = document.createElement('div');
-menu.innerHTML = '<a href="#" id="dark-mode-toggle">Toggle Dark Mode</a>';
-document.body.insertBefore(menu, document.body.firstChild);
-
-const darkModeToggle = document.getElementById('dark-mode-toggle'); 
