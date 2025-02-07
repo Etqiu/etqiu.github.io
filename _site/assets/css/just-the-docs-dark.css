@@ -7612,4 +7612,42 @@ div.opaque {
   background-color: #27262b;
 }
 
+/* Light Mode Styles */
+body {
+  background-color: #ffffff; /* Light background */
+  color: #000000; /* Dark text color */
+}
+
+a {
+  color: #007bff; /* Link color */
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+  background-color: #1c1c1c; /* Dark background */
+  color: #ffffff; /* Light text color */
+}
+
+.dark-mode a {
+  color: #75b5ff; /* Light link color */
+}
+
+.dark-mode .site-header, .dark-mode .site-footer, .dark-mode .site-nav {
+  background-color: #2c2c2c; /* Dark header/footer/nav */
+}
+
+/* Optional: Adjust heading colors */
+.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6 {
+  color: #ffffff; /* Light heading color */
+}
+
+/* Set a uniform text color */
+body {
+  color: #000000;
+}
+
+.site-header, .site-footer, .site-nav {
+  color: #007bff; /* Ensure header, footer, and nav text are uniform */
+}
+
 /*# sourceMappingURL=just-the-docs-dark.css.map */

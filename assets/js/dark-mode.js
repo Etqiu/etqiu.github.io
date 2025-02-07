@@ -1,23 +1,14 @@
-document.addEventListener('DOMContentLoaded', function() {
-    const darkModeToggle = document.querySelector('a[href="#"][aria-label="Dark Mode"]');
-    
-    if (darkModeToggle) {
-        darkModeToggle.addEventListener('click', function(e) {
-            e.preventDefault();
-            document.body.classList.toggle('dark-mode');
-            
-            // Save preference to localStorage
-            if (document.body.classList.contains('dark-mode')) {
-                localStorage.setItem('theme', 'dark');
-            } else {
-                localStorage.setItem('theme', 'light');
-            }
-        });
-        
-        // Check for saved theme preference
-        const savedTheme = localStorage.getItem('theme');
-        if (savedTheme === 'dark') {
-            document.body.classList.add('dark-mode');
-        }
-    }
-});
+const link = document.querySelector('a.site-button');
+if (link) {
+  link.addEventListener('click', (event) => {
+    event.preventDefault(); // Prevent the default behavior of the link (jumping to the top)
+    console.log('Dark Mode link clicked!');
+    // Add your dark mode toggle logic here
+    document.body.classList.toggle('dark-mode');
+  });
+}
+
+
+const data = {
+  message: "Click event listener added to the link."
+}
