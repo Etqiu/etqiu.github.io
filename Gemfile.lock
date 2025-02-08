@@ -76,6 +76,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-sass-converter
   jekyll-seo-tag
   just-the-docs
 
