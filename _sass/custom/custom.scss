@@ -1,17 +1,17 @@
 /* Light Mode Styles */
 body {
     background-color: #ffffff; /* Light background */
-    color: #000000; /* Dark text color */
+    color: #0000ff /* Blue text color */ !important;
 }
 
 a {
-    color: #007bff; /* Link color */
+    color: #007bff !important; /* Link color */
 }
 
 /* Dark Mode Styles */
 .dark-mode {
     background-color: #1c1c1c; /* Dark background */
-    color: #ffffff; /* Light text color */
+    color: #0000ff; /* Blue text color */
 }
 
 .dark-mode a {
@@ -29,7 +29,7 @@ a {
 
 /* Set a uniform text color */
 body {
-    color: #000000; 
+    color: #0000ff; /* Blue text color */
 }
 
 .site-header, .site-footer, .site-nav {

@@ -2,3 +2,5 @@ theme: just-the-docs
 title: etqiu.github.io
 search_enabled: false
 color_scheme: light
+sass:
+  sass_dir: _sass
