@@ -4,6 +4,5 @@ search_enabled: false
 color_scheme: light
 sass:
   sass_dir: _sass
-title: Ethan Qiu
 description: I'm currently a freshman studying data science at UC Berkeley. I'm also interested in studying Natural Language Processing and neural networks, especially learning more about using sci-kit learn and tensorflow.
 url: https://etqiu.github.io
