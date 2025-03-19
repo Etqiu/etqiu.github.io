@@ -18,13 +18,6 @@ resume_items:
     responsibilities:
       - "Provided 1 on 1 online tutoring to high school students, focused on topics such as integration and differential equations."
       - "Utilized various teaching methods and online resources to enhance student understanding and engagement."
-  - title: "University of California, Berkeley"
-    company: "Data Science Major"
-    date: "Aug 2024 - Present"
-    location: "Berkeley, CA"
-    responsibilities:
-      - "GPA: 3.925"
-      - " ."
   - title: "Office Intern"
     company: "Dumpling Depot Restaurant"
     date: "Jun 2022 - Aug 2022"
