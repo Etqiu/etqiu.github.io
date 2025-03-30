@@ -1,5 +1,5 @@
 ---
-title: Wordnet | (NLP, Data Structures/Algorithms, Java)
+title: Wordnet | (NLP, Directed Graphs, BFS/DFS Search, WordNet API, Java)
 description: Head Teaching Assistant
 date_start: Feburary 2025
 date_end: March 2025
