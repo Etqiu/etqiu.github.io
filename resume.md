@@ -23,7 +23,7 @@ resume_items:
     date: "Jun 2022 - Aug 2022"
     location: "Sunnyvale, CA"
     responsibilities:
-      - "Redesigned a new catering website via JavaScript and on Wix.com, and created a new menu option on the website."
+      - "Redesigned a new catering <a href='https://www.dumplingdepot.com/'>website</a> via JavaScript and on Wix.com, and created a new menu option on the website."
       - "Prepared invoices weekly to upload to OneDrive in chronological order and organized miscellaneous invoices."
       - "Created a new invoice management system on OCR through Java and increased website monthly sales by 10% through catering extension."
   - title: "Camp Counselor"
@@ -34,7 +34,7 @@ resume_items:
       - "Led activities that encouraged collaboration and confidence to ensure campers were engaged creatively and cooperatively."
       - "Practiced conciseness, projection and confident body language while speaking publicly and giving instructions."
 ---
-# Resume
+# Resume <a href="{{ site.baseurl }}/assets/pdfs/Ethan Qiu Resume.docx.pdf" target="_blank" style="font-size: 0.5em;">[Open PDF]</a>
 
 {% for item in page.resume_items %}
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; flex-direction: row-reverse; width: 100%;">
