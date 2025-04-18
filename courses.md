@@ -2,6 +2,7 @@
 title: Courses
 layout: default
 nav_order: 3
+published: false
 ---
 
 # Current coursework (Spring 2025): 
