@@ -1,7 +1,8 @@
 theme: just-the-docs
 title: etqiu.github.io
 search_enabled: false
-color_scheme: light
+heading_anchors: false
+
 sass:
   sass_dir: _sass
 description: I'm currently a freshman studying data science at UC Berkeley. I'm also interested in studying Natural Language Processing and neural networks, especially learning more about using sci-kit learn and tensorflow.

@@ -3,9 +3,16 @@ title: Resume
 layout: default
 nav_order: 2
 resume_items:
+  - title: "Data Science Intern"
+    company: "Structure Theraputics"
+    date: "May 2025 - Present"
+    location: "South San Francisco, CA"
+    responsibilities:
+      - Incoming Summer 2025 
+      - <a href='https://structuretx.com/'>Structure TX</a> 
   - title: "Data Analyst Intern"
     company: "Kurma AI"
-    date: "Jan 2025 - Present"
+    date: "Jan 2025 - May 2025"
     location: "San Francisco, CA"
     responsibilities:
       - "Performing preprocessing data analysis and on research papers and pdfs using Python, RegEx, and pymupdf4llm."
