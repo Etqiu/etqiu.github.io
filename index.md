@@ -2,7 +2,7 @@
 title: About
 layout: default
 nav_order: 1
-description: I'm currently a freshman studying data science at UC Berkeley. I'm also interested in studying Natural Language Processing and neural networks, especially learning more about using sci-kit learn and tensorflow.  
+description: I'm currently studying data science at UC Berkeley. I'm also interested in studying Natural Language Processing and neural networks, especially learning more about using sci-kit learn and tensorflow.  
 ---
 
 # Ethan Qiu
