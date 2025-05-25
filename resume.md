@@ -15,9 +15,9 @@ resume_items:
     date: "Jan 2025 - May 2025"
     location: "San Francisco, CA"
     responsibilities:
-      - "Performing preprocessing data analysis and on research papers and pdfs using Python, RegEx, and pymupdf4llm."
-      - "Assisting in developing and maintaining databases and other strategies that optimize statistical efficiency and quality."
-      - "Helping interpret data, analyze results using statistical techniques, and prepare ongoing reports."
+      - "Performed preprocessing data analysis and on research papers and pdfs using Python, RegEx, and pymupdf4llm."
+      - "Assisted in developing and maintaining databases and other strategies that optimize statistical efficiency and quality."
+      - "Helped interpret data, analyze results using statistical techniques, and prepare ongoing reports."
   - title: "Calculus Tutor"
     company: "Independent - Part time"
     date: "Jan 2025 - Present"
