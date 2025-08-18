@@ -5,13 +5,16 @@ nav_order: 2
 resume_items:
   - title: "Data Science Intern"
     company: "Structure Theraputics"
-    date: "May 2025 - Present"
+    company_url: "https://structuretx.com/"
+    date: "May 2025 - Aug 2025"
     location: "South San Francisco, CA"
     responsibilities:
-      - Incoming Summer 2025 
-      - <a href='https://structuretx.com/'>Structure TX</a> 
+      - "Leveraged R to maintain and validate new features for clinical trial internal visualization and analysis tools."
+      - "Improved backend performance for internal apps using caching and memoization, speeding up runtime ~80 seconds."
+      - "Built ML models using scikit-learn and PyTorch to internally predict clinical trial success using patient metrics and collaborated with clinical scientists and medical affairs teams for feature selection and data handling/evaluation."
   - title: "Data Analyst Intern"
     company: "Kurma AI"
+    company_url: "https://kurma.ai/"
     date: "Jan 2025 - May 2025"
     location: "San Francisco, CA"
     responsibilities:
@@ -48,7 +51,11 @@ resume_items:
     <img src="/assets/jpgs/{{ item.company | downcase | replace: ' ', '_' }}_logo.jpeg" alt="{{ item.company }} Logo" width="100" style="margin-left: 20px;; margin-top: -15px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);" onerror="this.onerror=null; this.src='/assets/jpgs/big_summer_day_camp_logo.jpeg';"/>
     <div style="flex-grow: 1; text-align: left;">
         <h3 style="margin: 5px 0;">{{ item.title }}</h3>
+        {% if item.company_url %}
+        <h4 style="margin: 5px 0;"><a href="{{ item.company_url }}" target="_blank" rel="noopener">{{ item.company }}</a></h4>
+        {% else %}
         <h4 style="margin: 5px 0;">{{ item.company }}</h4>
+        {% endif %}
         <p style="margin: 5px 0;"><em>{{ item.date }} | {{ item.location }}</em></p>
         <ul style="padding-left: 20px; margin: 0;">
             {% for responsibility in item.responsibilities %}

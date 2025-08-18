@@ -9,7 +9,7 @@ description: I'm currently studying data science at UC Berkeley. I'm also intere
 
 <img src="/assets/jpgs/Qiu_Ethan_D.jpg" alt="Image description" width="200"/>
 
-I'm currently studying data science at UC Berkeley. I'm also interested in studying Natural Language Processing and neural networks, especially learning more about using sci-kit learn and tensorflow. 
+I'm currently studying data science at UC Berkeley. I'm also interested in studying Natural Language Processing and neural networks. 
 
 Email: [ethanq@berkeley.edu](mailto:ethanq@berkeley.edu)<br>
 Github: [https://github.com/Etqiu](https://github.com/Etqiu)
